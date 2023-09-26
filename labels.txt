@@ -1,0 +1,4 @@
+.git
+fake
+man
+woman
